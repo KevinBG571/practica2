@@ -1,0 +1,4 @@
+0-comunidadkevocasa,1,161,192.168.1.67
+1-kevinbaldovinosgutierrez,1,161,localhost
+2-comunidadSNMP,1,161,192.168.0.115
+3-kevinbaldovinosgutierrez,1,161,localhost
